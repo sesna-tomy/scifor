@@ -1,0 +1,10 @@
+How do you create interactive widgets in Streamlit? Provide examples
+
+Streamlit offers a range of interactive widgets that allow users to interact with your app, modifying parameters, selecting options, or entering values dynamically. 
+Here are examples of some commonly used interactive widgets:
+
+Streamlit.checkbox() - this gives us a checkbox
+streamlit.selectbox() - this gives us a dropdown of values that the user can select.
+streamlit.multiselect() - this gives a dropdown of values from which the user can select multiple values.
+streamlit.button() - this helps us to create buttons.
+There are many more widgets that can be used in streamlit with just few lines.
