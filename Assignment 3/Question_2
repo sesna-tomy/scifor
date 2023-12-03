@@ -1,0 +1,7 @@
+How can you add a title to your Streamlit app?
+
+We can add title to a streamlit app by using the command streamlit.title(body).
+
+import streamlit as st
+st.title('This is mt title')
+This st.title() function creates a title at the top of your Streamlit app. We can replace 'This is my title' with any desired title for the application.
