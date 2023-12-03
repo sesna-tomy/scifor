@@ -1,0 +1,6 @@
+What is the purpose of the st.write() function in Streamlit?
+The write function is used to display text,data,pictures or display graphs. It does things depending on the input it gets. It takes in multiple arguments.
+We can use st.write() to display various types of content.
+
+write("string") - it will display the string that is given in the paranthesis
+write(data_frame) - it will display a dataframe as an interactive table.
