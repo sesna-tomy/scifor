@@ -1,0 +1,7 @@
+What is Streamlit, and how does it differ from other web frameworks?
+
+Streamlit is an open-source python library that makes us easy to create web application for machine learning and data science.  
+It's particularly well-suited for quickly building interactive web apps around data, machine learning models, visualizations, and other computational tasks.
+Streamlit is designed to be very user-friendly, with a simple API that allows developers to create web applications using Python scripts without needing extensive web development knowled
+It enables developers to create functional web apps with minimal effort.
+It offers widgets and components that make it easy to build interactive charts, graphs, sliders, and other data-driven UI elements.
