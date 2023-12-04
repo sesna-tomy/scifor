@@ -1,0 +1,7 @@
+Explain the basic structure of a Streamlit app.
+
+Streamlit allows us to write apps the same way we write python scripts.
+For this streamlit uses a unique data flow.
+That is,any time something is updated on the screen, Streamlit reruns the entire Python script from top to bottom.
+This can happen whenever we modify our app's source code or when a user interacts with widgets in the app. 
+For example, when dragging a slider, entering text in an input box, or clicking a button.
