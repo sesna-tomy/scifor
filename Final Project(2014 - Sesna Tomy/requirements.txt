@@ -2,8 +2,7 @@ streamlit
 tensorflow
 pandas
 numpy
-cv2
-os
-sklearn
+scikit-learn
 seaborn
 tqdm
+
