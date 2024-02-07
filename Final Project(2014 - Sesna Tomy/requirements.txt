@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+pandas
+numpy
+cv2
+os
+sklearn
+seaborn
+tqdm
